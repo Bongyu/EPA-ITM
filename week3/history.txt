@@ -1,0 +1,4 @@
+get add hello.sh
+get commit -m "first file" hollo.sh
+git push
+
